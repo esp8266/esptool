@@ -1,5 +1,7 @@
-esp8266
+esptool
 =======
+
+**FIXME:** This is a empty repository. The original project is [here](https://github.com/igrr/esptool-ck)
 
 Online community http://www.esp8266.com supporting all aspects of the ESP8266 and ESP8266EX
 
